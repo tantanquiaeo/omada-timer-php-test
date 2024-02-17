@@ -2,7 +2,7 @@
 
 ## Description
 
-Omada Voucher Timer is a simple tool written in PHP for managing and monitoring voucher durations in Omada networks. It leverages the Tick Counter API for timer functionality and allows you to retrieve voucher duration information from the Omada Cloud API. This project currently lacks a polished user interface and requires manual input for retrieving client data.
+Omada Voucher Timer is a simple tool written in PHP for managing and monitoring voucher durations in Omada networks. It leverages the Tick Counter API for timer functionality and allows you to retrieve voucher duration information from the Omada Cloud API. This project currently lacks a polished user interface and requires manual running of the php for retrieving client data.
 
 ## Installation
 
