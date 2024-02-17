@@ -1,0 +1,49 @@
+[
+    {
+        "id": "65d0330e2f34ff2e1da3e8ff",
+        "name": "itel-S23",
+        "mac": "FA-62-63-B3-C8-1C",
+        "wireless": true,
+        "ssid": "RABONG.NET",
+        "authType": 3,
+        "download": 2419548006,
+        "upload": 84874054,
+        "duration": 14356,
+        "start": 1708143374730,
+        "end": 1708172174730,
+        "valid": true,
+        "voucherCode": "20c7Hy",
+        "ip": "192.168.100.85"
+    },
+    {
+        "id": "65d05e542f34ff2e1da54b25",
+        "name": "realme-C21-Y",
+        "mac": "2E-08-3E-1B-4F-D0",
+        "wireless": true,
+        "ssid": "RABONG.NET",
+        "authType": 3,
+        "download": 131207771,
+        "upload": 8271224,
+        "duration": 3279,
+        "start": 1708154452329,
+        "end": 1708183252329,
+        "valid": true,
+        "voucherCode": "linagB",
+        "ip": "192.168.100.88"
+    },
+    {
+        "id": "65d074af2f34ff2e1da606b2",
+        "mac": "92-07-E7-B7-B3-13",
+        "wireless": true,
+        "ssid": "RABONG.NET",
+        "authType": 3,
+        "download": 0,
+        "upload": 0,
+        "duration": 0,
+        "start": 1708160175582,
+        "end": 1708163775582,
+        "valid": true,
+        "voucherCode": "997996",
+        "ip": "120.29.108.129"
+    }
+]
